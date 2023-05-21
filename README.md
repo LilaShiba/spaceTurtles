@@ -1,32 +1,32 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>🚀 Space Adventure with Python Turtle 🐢</title>
-    <style>
-        body {
-            background-color: #0D0221;
-            color: #66FCF1;
-            font-family: 'Courier New', Courier, monospace;
-        }
-        h1, h2, h3 {
-            color: #45A29E;
-        }
-        details {
-            background-color: #1F2833;
-            padding: 10px;
-            border-radius: 5px;
-            margin: 10px 0;
-        }
-        pre {
-            background-color: #0B0C10;
-            color: #C5C6C7;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        code {
-            color: #66FCF1;
-        }
-    </style>
+<style>
+    body {
+        background-color: #0D0221;
+        color: #F7A8B8; 
+        font-family: 'Courier New', Courier, monospace;
+    }
+    h1, h2, h3 {
+        color: #55CDFC; 
+    }
+    details {
+        background-color: #0B0C10;
+        padding: 10px;
+        border-radius: 5px;
+        margin: 10px 0;
+    }
+    pre {
+        background-color: #1F2833;
+        color: #E7E7E7; 
+        padding: 10px;
+        border-radius: 5px;
+    }
+    code {
+        color: #F7A8B8; 
+    }
+</style>
+
 </head>
 <body>
 
@@ -38,13 +38,7 @@
 
 <p>Your mission is to create a <strong>Space Adventure</strong> using Python's turtle module. You will draw a night sky filled with stars 🌠, a beautiful planet 🌍, and a spaceship 🛸 ready for a journey into the unknown!</p>
 
-<h2>🧰 What You Need</h2>
-
-<ol>
-    <li>Python installed on your computer 🐍</li>
-    <li>A code editor like VSCode, Atom, or Sublime Text 💻</li>
-    <li>Excitement to learn and code! 🔥💡</li>
-</ol>
+<br>
 
 <h2>📝 Instructions</h2>
 
@@ -63,6 +57,7 @@ space_turtle = turtle.Turtle()
 </code></pre>
 
 </details>
+<br>
 
 <h3>2. Draw Stars in the Sky 🌠🌌</h3>
 
@@ -81,6 +76,7 @@ def draw_star(turtle, size):
 </details>
 
 <p>Can you use a loop to draw multiple stars at random places?</p>
+<br>
 
 <h3>3. Draw a Planet 🌍🌑</h3>
 
@@ -101,6 +97,7 @@ def draw_planet(turtle, size, color):
 </code></pre>
 
 </details>
+<br>
 
 <h3>4. Draw a Spaceship 🚀🛸</h3>
 
@@ -128,12 +125,14 @@ def draw_planet(turtle, size, color):
 </code></pre>
 
 </details>
+<br>
 
 <h3>5. Show Off Your Creation! 🖼️🎆</h3>
 
 <p>Once you've drawn your stars, planet, and spaceship, it's time to admire your work! Complete your code with this line to hold the drawing screen open:</p>
 
 <pre><code>turtle.done()</code></pre>
+<br>
 
 <h2>✨💫 That's It!</h2>
 
