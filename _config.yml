@@ -1,2 +1,4 @@
 
 remote_theme: chetanverma16/circle-theme
+plugins:
+- jekyll-remote-theme
