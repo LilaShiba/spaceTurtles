@@ -1,31 +1,7 @@
 <html>
 <head>
     <title>🚀 Space Adventure with Python Turtle 🐢</title>
-<style>
-    body {
-        background-color: #0D0221;
-        color: #F7A8B8; 
-        font-family: 'Courier New', Courier, monospace;
-    }
-    h1, h2, h3 {
-        color: #55CDFC; 
-    }
-    details {
-        background-color: #0B0C10;
-        padding: 10px;
-        border-radius: 5px;
-        margin: 10px 0;
-    }
-    pre {
-        background-color: #1F2833;
-        color: #E7E7E7; 
-        padding: 10px;
-        border-radius: 5px;
-    }
-    code {
-        color: #F7A8B8; 
-    }
-</style>
+
 
 </head>
 <body>
